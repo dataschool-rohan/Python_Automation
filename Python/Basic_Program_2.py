@@ -7,12 +7,20 @@
 # print("user_name:", user_name)
 
 # Take user input and print it.
-user_input = input("enter name:" )
-print(user_input)
+# user_input = input("enter name:" )
+# print(user_input)
 
 # Take two numbers and print their sum.
-
+num_1 = 50
+num_2 = 40
+num_sum = num_1 + num_2
+print ("Total:", num_sum)
 # Take two numbers and print their subtraction.
+
+num_1 = 50
+num_2 = 40
+num_sub = num_1 - num_2
+print ("Total:", num_sub)
 
 # Swap two numbers (without using third variable).
 

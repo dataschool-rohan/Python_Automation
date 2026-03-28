@@ -1,1 +1,10 @@
+cd. tab (To enter into the flolder)
+
+git branch (To check branch current branch)
+
+(To Push code from local to git)
+git status ()
+git add . (all files) 
+git  commit -m "File updated"
+git push origin branch name
 
